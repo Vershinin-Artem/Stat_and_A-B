@@ -1,1 +1,1 @@
-# Statistics-and-A-B-testing
+# Статистика и А/В тесты
